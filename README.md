@@ -1,2 +1,2 @@
-# plasma6-walls
-Plasma 6 Wallpapers Submission
+# Plasma 6 Wallpapers
+Plasma 6 Wallpapers Submission.
