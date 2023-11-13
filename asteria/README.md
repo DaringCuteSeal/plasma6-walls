@@ -1,4 +1,4 @@
-# Traverse
+# Asteria
 
 > We're going to search until the very edge of the hills, together ...
 
